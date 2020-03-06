@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5b4d259-cca3-4273-9a83-eded32f6bbfe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectId" id="1Y1J36rikcGRHtcv9aMhVS7HCka" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\leyou-portal\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5b4d259-cca3-4273-9a83-eded32f6bbfe" name="Default Changelist" comment="" />
+      <created>1582103964221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582103964221</updated>
+      <workItem from="1582103965531" duration="3621000" />
+      <workItem from="1582163508090" duration="1312000" />
+      <workItem from="1582190461327" duration="58000" />
+      <workItem from="1582255280827" duration="8000" />
+      <workItem from="1582539324991" duration="5907000" />
+      <workItem from="1582599109903" duration="26437000" />
+      <workItem from="1582683676811" duration="18000" />
+      <workItem from="1582683713470" duration="4662000" />
+      <workItem from="1582691524799" duration="6971000" />
+      <workItem from="1582724031066" duration="599000" />
+      <workItem from="1582724931378" duration="30000" />
+      <workItem from="1582724975058" duration="33000" />
+      <workItem from="1582725043700" duration="246000" />
+      <workItem from="1582725479745" duration="7980000" />
+      <workItem from="1582770904413" duration="7850000" />
+      <workItem from="1582788289340" duration="5433000" />
+      <workItem from="1582850425665" duration="6707000" />
+      <workItem from="1582936221616" duration="664000" />
+      <workItem from="1582959578495" duration="4132000" />
+      <workItem from="1583030492555" duration="1442000" />
+      <workItem from="1583198868112" duration="2496000" />
+      <workItem from="1583216195042" duration="1350000" />
+      <workItem from="1583230158993" duration="945000" />
+      <workItem from="1583280180413" duration="2646000" />
+      <workItem from="1583302528567" duration="4429000" />
+      <workItem from="1583316563522" duration="39000" />
+      <workItem from="1583316635109" duration="10566000" />
+      <workItem from="1583365633913" duration="18338000" />
+      <workItem from="1583453021062" duration="132000" />
+      <workItem from="1583453165420" duration="17000" />
+      <workItem from="1583453342745" duration="661000" />
+      <workItem from="1583455800366" duration="10813000" />
+      <workItem from="1583472326806" duration="5683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="177" key="#Notifications" timestamp="1582723840869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="177" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1582723840869" />
+    <state x="551" y="177" key="#Project_Structure" timestamp="1582111315539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="177" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582111315539" />
+    <state x="639" y="245" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583453028793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="639" y="245" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583453028793" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1583418977613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583418977613" />
+    <state x="739" y="273" key="FileChooserDialogImpl" timestamp="1582163622974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582163622974" />
+    <state x="460" y="160" key="SettingsEditor" timestamp="1582601225594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582601225594" />
+    <state width="498" height="452" key="SwitcherDM" timestamp="1582774596029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="452" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1582774596029" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1583418977613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583418977613" />
+    <state x="333" y="213" key="new project wizard" timestamp="1582959630596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="333" y="213" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582959630596" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583313812353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583313812353" />
+  </component>
+</project>
